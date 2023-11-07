@@ -1,1 +1,13 @@
-# Survey_management_project
+# Survey_management_project 
+![HomePage](Images/HomePage.png)
+![HomePage](Images/Apply.png)
+![NextPage](Images/ApplyForQutions.png) 
+![Result](Images/CreateanewQuestionnaire.png)
+![NextPage](Images/CreateQutions1.png) 
+![Result](Images/CreateQutions2.png)
+![HomePage](Images/CreateOption.png) 
+![NextPage](Images/Listofoptionsforthequestion.png) 
+![Result](Images/Listofquestionnaires.png)
+![HomePage](Images/Listofquestionsforthissurvey.png)
+![NextPage](Images/OptionsList.png) 
+![Result](Images/ViewResponses.png)
